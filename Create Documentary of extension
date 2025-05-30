@@ -1,0 +1,35 @@
+1. .hta – HTML Application
+Full Form: HTML Application
+
+Use:
+
+A .hta file is an HTML-based application that runs in Windows using Internet Explorer’s rendering engine but with more access to system-level features than a normal webpage.
+
+It can execute VBScript or JavaScript and is used for creating GUIs or automation scripts.
+
+2. .chm – Compiled HTML Help
+Full Form: Compiled HTML Help
+
+Use:
+
+A .chm file is used for help documentation in Windows.
+
+It combines multiple HTML pages into one compressed file, often seen in software help sections.
+
+3. .vb – Visual Basic Script File
+Full Form: Visual Basic
+
+Use:
+
+Contains Visual Basic (VB) code.
+
+Used for automation, especially in Microsoft environments (like Excel macros or Windows automation).
+
+4. .js – JavaScript File
+Full Form: JavaScript
+
+Use:
+
+Contains JavaScript code.
+
+Mainly used in web development to add interactivity, handle events, and control HTML content dynamically.
